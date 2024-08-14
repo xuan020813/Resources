@@ -1,0 +1,6 @@
+Version
+Assets/BundleResources/ConsoleToScreen.prefab[7848d2b2c7ff90f6345cfb09cbf3aa52]|consoletoscreen.prefab.ab
+Assets/BundleResources/Directional Light.prefab[426a77e170865df50da882427b85d562]|directional light.prefab.ab
+Assets/BundleResources/LoadDll.prefab[31eecaf619d96e6ba13132a2d372f7a2]|loaddll.prefab.ab
+Assets/BundleResources/Main Camera.prefab[0a502bfd259b3bab88533689a06e317f]|main camera.prefab.ab
+Assets/BundleResources/Manager.prefab[6d967c8508fe78929e2b5070d3ec63ff]|manager.prefab.ab
