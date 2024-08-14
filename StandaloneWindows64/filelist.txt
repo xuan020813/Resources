@@ -1,6 +1,7 @@
 Version
-Assets/BundleResources/ConsoleToScreen.prefab[7848d2b2c7ff90f6345cfb09cbf3aa52]|consoletoscreen.prefab.ab
-Assets/BundleResources/Directional Light.prefab[426a77e170865df50da882427b85d562]|directional light.prefab.ab
-Assets/BundleResources/LoadDll.prefab[31eecaf619d96e6ba13132a2d372f7a2]|loaddll.prefab.ab
-Assets/BundleResources/Main Camera.prefab[0a502bfd259b3bab88533689a06e317f]|main camera.prefab.ab
-Assets/BundleResources/Manager.prefab[6d967c8508fe78929e2b5070d3ec63ff]|manager.prefab.ab
+Assets/BundleResources/Scene/GameMain.unity[fdea13461ffc7810495b25b607a4ce4a]|scene/gamemain.unity.ab
+Assets/BundleResources/Sprite/4861.jpg[cf30de091024e20f4cf8f84176274f79]|sprite/4861.jpg.ab
+Assets/BundleResources/Audio/Music/Music.mp3[a39497786a7991b32424a2c56be16dcc]|audio/music/music.mp3.ab
+Assets/BundleResources/Audio/Sound/Sound.mp3[aa25ef03f5013a7cdf2a7ee9d7eb8c8d]|audio/sound/sound.mp3.ab
+Assets/BundleResources/Modle/Prefab/Manager.prefab[6d967c8508fe78929e2b5070d3ec63ff]|modle/prefab/manager.prefab.ab
+Assets/BundleResources/UI/Prefab/TestLoad.prefab[6cbfd71ee93e680369a15f516e25241c]|ui/prefab/testload.prefab.ab
