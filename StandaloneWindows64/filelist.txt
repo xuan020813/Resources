@@ -1,8 +1,8 @@
-0.0.0.1
+Version
 Assets/BundleResources/Scene/GameMain.unity[fdea13461ffc7810495b25b607a4ce4a]|scene/gamemain.unity.ab
 Assets/BundleResources/Sprite/4861.jpg[cf30de091024e20f4cf8f84176274f79]|sprite/4861.jpg.ab
 Assets/BundleResources/Audio/Music/Music.mp3[a39497786a7991b32424a2c56be16dcc]|audio/music/music.mp3.ab
 Assets/BundleResources/Audio/Sound/Sound.mp3[aa25ef03f5013a7cdf2a7ee9d7eb8c8d]|audio/sound/sound.mp3.ab
 Assets/BundleResources/Modle/Prefab/Manager.prefab[6d967c8508fe78929e2b5070d3ec63ff]|modle/prefab/manager.prefab.ab
-Assets/BundleResources/UI/Prefab/TestLoad.prefab[6cbfd71ee93e680369a15f516e25241c]|ui/prefab/testload.prefab.ab
+Assets/BundleResources/UI/Prefab/TestLoad.prefab[92b5c7f6ef22ca2df545d7faae5b74b4]|ui/prefab/testload.prefab.ab|Assets/BundleResources/Sprite/4861.jpg
 D:/Unity/UnityPro/HotUpdate/Assets/StreamingAssets\dlls\GameMain.dll.bytes[ad94cfd1350d86cf31980adcf1638cfa]|dlls/GameMain.dll.bytes
