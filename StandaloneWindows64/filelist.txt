@@ -1,8 +1,8 @@
-0.0.0.6
-Assets/BundleResources/Scene/GameMain.unity[fdea13461ffc7810495b25b607a4ce4a]|scene/gamemain.unity.ab
-Assets/BundleResources/Sprite/4861.jpg[cf30de091024e20f4cf8f84176274f79]|sprite/4861.jpg.ab
-Assets/BundleResources/Audio/Music/Music.mp3[a39497786a7991b32424a2c56be16dcc]|audio/music/music.mp3.ab
-Assets/BundleResources/Audio/Sound/Sound.mp3[aa25ef03f5013a7cdf2a7ee9d7eb8c8d]|audio/sound/sound.mp3.ab
-Assets/BundleResources/Modle/Prefab/Manager.prefab[6d967c8508fe78929e2b5070d3ec63ff]|modle/prefab/manager.prefab.ab
-Assets/BundleResources/UI/Prefab/TestLoad.prefab[92b5c7f6ef22ca2df545d7faae5b74b4]|ui/prefab/testload.prefab.ab|Assets/BundleResources/Sprite/4861.jpg
+0.0.0.7
+Assets/BundleResources/Scene/GameMain.unity[a6b087dd9b42bc57a07146a84af02548]|scene/gamemain.unity.ab|
+Assets/BundleResources/Sprite/4861.jpg[6a2110f1df7925538a0e386b01109d5a]|sprite/4861.jpg.ab|
+Assets/BundleResources/Audio/Music/Music.mp3[0d0f861e1b9f506eaa27504b00c9e07d]|audio/music/music.mp3.ab|
+Assets/BundleResources/Audio/Sound/Sound.mp3[438ea260c3281e0ac731027190981a47]|audio/sound/sound.mp3.ab|
+Assets/BundleResources/Modle/Prefab/Manager.prefab[1995cdb1f80e05e50ce2d93590a0f60d]|modle/prefab/manager.prefab.ab|
+Assets/BundleResources/UI/Prefab/TestLoad.prefab[44e984aa0167a3057f58ca04434df94d]|ui/prefab/testload.prefab.ab|Assets/BundleResources/Sprite/4861.jpg|
 D:/Unity/UnityPro/HotUpdate/Assets/StreamingAssets\dlls\GameMain.dll.bytes[ad94cfd1350d86cf31980adcf1638cfa]|dlls/GameMain.dll.bytes
