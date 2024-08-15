@@ -1,4 +1,4 @@
-0.0.0.4
+0.0.0.5
 Assets/BundleResources/Scene/GameMain.unity[fdea13461ffc7810495b25b607a4ce4a]|scene/gamemain.unity.ab
 Assets/BundleResources/Sprite/4861.jpg[cf30de091024e20f4cf8f84176274f79]|sprite/4861.jpg.ab
 Assets/BundleResources/Audio/Music/Music.mp3[a39497786a7991b32424a2c56be16dcc]|audio/music/music.mp3.ab
