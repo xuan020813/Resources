@@ -1,4 +1,4 @@
-0.0.0.10
+0.0.0.11
 Assets/BundleResources/Scene/GameMain.unity[a6b087dd9b42bc57a07146a84af02548]|scene/gamemain.unity.ab
 Assets/BundleResources/Sprite/4861.jpg[c7ef259aeba6ffcf18eda9797ac5a02e]|sprite/4861.jpg.ab
 Assets/BundleResources/Sprite/_4861.jpg[4e8877bb64aedb76d91736b1da6536c8]|sprite/_4861.jpg.ab
