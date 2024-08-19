@@ -1,0 +1,6 @@
+Assets/BundleResources/Audio/Music/Music.mp3+defaultgroup.ab
+Assets/BundleResources/Audio/Sound/Sound.mp3+defaultgroup.ab
+Assets/BundleResources/Modle/Prefab/Manager.prefab+defaultgroup.ab
+Assets/BundleResources/Sprite/4861.jpg+defaultgroup.ab
+Assets/BundleResources/Sprite/__4861.jpg+defaultgroup.ab
+Assets/BundleResources/UI/Prefab/TestLoad.prefab+defaultgroup.ab+Assets/BundleResources/Sprite/4861.jpg
