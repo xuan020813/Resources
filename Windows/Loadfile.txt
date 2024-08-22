@@ -4,3 +4,5 @@ Assets/BundleResources/Modle/Prefab/Manager.prefab+defaultgroup.ab
 Assets/BundleResources/Sprite/4861.jpg+defaultgroup.ab
 Assets/BundleResources/Sprite/__4861.jpg+defaultgroup.ab
 Assets/BundleResources/UI/Prefab/TestLoad.prefab+defaultgroup.ab+Assets/BundleResources/Sprite/4861.jpg
+Assets/BundleResources/Scene/GameMain.unity+scene.ab
+Assets/BundleResources/Scene/test.unity+scene.ab
