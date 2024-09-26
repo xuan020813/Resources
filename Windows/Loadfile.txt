@@ -1,9 +1,0 @@
-Assets\BundleResources\Audio\Music\Music.mp3+Music+defaultgroup.ab
-Assets\BundleResources\Audio\Sound\Sound.mp3+Sound+defaultgroup.ab
-Assets\BundleResources\Modle\Prefab\Manager.prefab+Manager+defaultgroup.ab
-Assets\BundleResources\Sprite\4861.jpg+4861+defaultgroup.ab
-Assets\BundleResources\Sprite\__4861.jpg+__4861+defaultgroup.ab
-Assets\BundleResources\UI\Prefab\TestLoad.prefab+TestLoad+defaultgroup.ab+4861
-Assets\BundleResources/Scene\GameMain.unity+GameMain+scene.ab
-Assets/BundleResources/Scene/test.unity+test+scene.ab
-Assets/BundleResources/UI/Prefab/LoadingUI.prefab+LoadingUI+loading.ab

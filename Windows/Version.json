@@ -1,0 +1,79 @@
+{
+    "Version": "0.0.0.90",
+    "Bundles": [
+        {
+            "BundleName": "defaultgroup.ab",
+            "BundleMD5": "24ebe2ef31fa45bfffd758a18f5666d6",
+            "AssetInfos": [
+                {
+                    "LoadPath": "Assets\\BundleResources\\Audio\\Music\\Music.mp3",
+                    "AssetName": "Music",
+                    "AssetMD5": "a39497786a7991b32424a2c56be16dcc",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources\\Audio\\Sound\\Sound.mp3",
+                    "AssetName": "Sound",
+                    "AssetMD5": "aa25ef03f5013a7cdf2a7ee9d7eb8c8d",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources\\Modle\\Prefab\\Manager.prefab",
+                    "AssetName": "Manager",
+                    "AssetMD5": "6d967c8508fe78929e2b5070d3ec63ff",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources\\Sprite\\4861.jpg",
+                    "AssetName": "4861",
+                    "AssetMD5": "cf30de091024e20f4cf8f84176274f79",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources\\Sprite\\__4861.jpg",
+                    "AssetName": "__4861",
+                    "AssetMD5": "229e8ac4b964d8b2a03551ea62592f7c",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets/BundleResources/UI/Prefab/TestLoad.prefab",
+                    "AssetName": "TestLoad",
+                    "AssetMD5": "84b750f4ec3c88a7d675770977c925ab",
+                    "AssetDependencies": [
+                        "4861"
+                    ]
+                }
+            ]
+        },
+        {
+            "BundleName": "scene.ab",
+            "BundleMD5": "12a247b0f3830ebf43a922b9ae7e88d0",
+            "AssetInfos": [
+                {
+                    "LoadPath": "Assets\\BundleResources/Scene\\GameMain.unity",
+                    "AssetName": "GameMain",
+                    "AssetMD5": "fdea13461ffc7810495b25b607a4ce4a",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources/Scene\\test.unity",
+                    "AssetName": "test",
+                    "AssetMD5": "d97bc64a47fde13a770fcbb9d9e8b053",
+                    "AssetDependencies": []
+                }
+            ]
+        },
+        {
+            "BundleName": "loading.ab",
+            "BundleMD5": "172590e67300cfed5ddfee2516eb7075",
+            "AssetInfos": [
+                {
+                    "LoadPath": "Assets/BundleResources/UI/Prefab/LoadingUI.prefab",
+                    "AssetName": "LoadingUI",
+                    "AssetMD5": "9b903f43ae52d77ed4c59c2602737b66",
+                    "AssetDependencies": []
+                }
+            ]
+        }
+    ]
+}
