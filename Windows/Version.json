@@ -1,9 +1,9 @@
 {
-    "Version": "0.0.0.104",
+    "Version": "0.0.0.134",
     "Bundles": [
         {
             "BundleName": "defaultgroup.ab",
-            "BundleMD5": "",
+            "BundleMD5": "24ebe2ef31fa45bfffd758a18f5666d6",
             "AssetInfos": [
                 {
                     "LoadPath": "Assets\\BundleResources\\Audio\\Music\\Music.mp3",
@@ -47,7 +47,7 @@
         },
         {
             "BundleName": "scene.ab",
-            "BundleMD5": "",
+            "BundleMD5": "12a247b0f3830ebf43a922b9ae7e88d0",
             "AssetInfos": [
                 {
                     "LoadPath": "Assets\\BundleResources/Scene\\GameMain.unity",
@@ -65,7 +65,7 @@
         },
         {
             "BundleName": "loading.ab",
-            "BundleMD5": "",
+            "BundleMD5": "172590e67300cfed5ddfee2516eb7075",
             "AssetInfos": [
                 {
                     "LoadPath": "Assets/BundleResources/UI/Prefab/LoadingUI.prefab",
