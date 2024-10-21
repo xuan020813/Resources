@@ -1,24 +1,12 @@
 {
-    "Version": "0.0.0.6.0",
+    "Version": "0.0.0.7.0",
     "MasterBundleName": "",
     "MasterStringBundleName": "",
     "Bundles": [
         {
             "BundleName": "defaultgroup.ab",
-            "BundleMD5": "c7301c17bea87150cf2b05a802deca4a",
+            "BundleMD5": "a7bb541fac68b712291ca9c8f550e4cb",
             "AssetInfos": [
-                {
-                    "LoadPath": "Assets\\BundleResources\\Audio\\Music\\Music.mp3",
-                    "AssetName": "Music",
-                    "AssetMD5": "a39497786a7991b32424a2c56be16dcc",
-                    "AssetDependencies": []
-                },
-                {
-                    "LoadPath": "Assets\\BundleResources\\Audio\\Sound\\Sound.mp3",
-                    "AssetName": "Sound",
-                    "AssetMD5": "aa25ef03f5013a7cdf2a7ee9d7eb8c8d",
-                    "AssetDependencies": []
-                },
                 {
                     "LoadPath": "Assets\\BundleResources\\Modle\\Prefab\\Manager.prefab",
                     "AssetName": "Manager",
