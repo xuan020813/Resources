@@ -1,9 +1,11 @@
 {
-    "Version": "0.0.0.134",
+    "Version": "0.0.0.6.0",
+    "MasterBundleName": "",
+    "MasterStringBundleName": "",
     "Bundles": [
         {
             "BundleName": "defaultgroup.ab",
-            "BundleMD5": "24ebe2ef31fa45bfffd758a18f5666d6",
+            "BundleMD5": "c7301c17bea87150cf2b05a802deca4a",
             "AssetInfos": [
                 {
                     "LoadPath": "Assets\\BundleResources\\Audio\\Music\\Music.mp3",
@@ -38,7 +40,7 @@
                 {
                     "LoadPath": "Assets/BundleResources/UI/Prefab/TestLoad.prefab",
                     "AssetName": "TestLoad",
-                    "AssetMD5": "84b750f4ec3c88a7d675770977c925ab",
+                    "AssetMD5": "cc7f5284acbc99b3168f18c91cd6c7e3",
                     "AssetDependencies": [
                         "4861"
                     ]
@@ -76,8 +78,38 @@
             ]
         },
         {
+            "BundleName": "bank.ab",
+            "BundleMD5": "537afd758be71984412a03570999fb74",
+            "AssetInfos": [
+                {
+                    "LoadPath": "Assets\\BundleResources\\Audio\\Fmod\\Desktop\\Master.bytes",
+                    "AssetName": "Master",
+                    "AssetMD5": "d3c257abf87757f402cb2f56bc145bb3",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources\\Audio\\Fmod\\Desktop\\Master.strings.bytes",
+                    "AssetName": "Master.strings",
+                    "AssetMD5": "fad40ae71ade4f239307a9eb3145a4f0",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets\\BundleResources\\Audio\\Fmod\\Desktop\\Music.bytes",
+                    "AssetName": "Music",
+                    "AssetMD5": "9b90f34266a61b591a4596905194e474",
+                    "AssetDependencies": []
+                },
+                {
+                    "LoadPath": "Assets/BundleResources/Audio/Fmod/Desktop/Sound.bytes",
+                    "AssetName": "Sound",
+                    "AssetMD5": "86254d802b19e25ea249e51ad496d7b5",
+                    "AssetDependencies": []
+                }
+            ]
+        },
+        {
             "BundleName": "GameMain.dll.bytes",
-            "BundleMD5": "05de5526ba12ab26204d3e2e0f49d0ef",
+            "BundleMD5": "bdeca847f33debd627c431fd974652fa",
             "AssetInfos": []
         }
     ]
